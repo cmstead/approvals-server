@@ -23,7 +23,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "approvals": "2.0.0",
+    "approvals": "1.4.0",
     "bl": "^0.9.4"
   }
 }
